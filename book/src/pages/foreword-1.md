@@ -19,7 +19,7 @@ Since we're assuming you have little programming experience we won't go into the
 Suffice to say there are different ways to think about and write computer programs, and we've chosen the functional programming approach.
 
 The reasons for choosing functional programming are more interesting.
-It's common to teach programming by what we call the "bag of syntax" approach, where "syntax" is the term we use for the rules defining the structure of symbols in a programming language. 
+It's common to teach programming by what we call the "bag of syntax" approach, where "syntax" is the term we use for the rules defining the structure of symbols in a programming language.
 In English, we are taught that a sentence can be constructed using the rule: subject + verb + object e.g. "the artist paints a cat".
 A programming language might have a different set of rules and symbols to read `Artist.paint(cat);`.
 This is a general example - languages have syntax variations, and it is worth noting that the English sentence is purely descriptive while the general code example is instructing the computer to paint a cat using 'Artist', which could be a library or object. 
